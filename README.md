@@ -22,6 +22,9 @@ Este é um projeto full stack de uma aplicação de lista de tarefas (Todo List)
 
 ---
 
+## Site Screenshot
+<img src="https://github.com/wescaetano/simple-todo-project/blob/main/Assets/screenshot.png" alt="First page" height="50%">
+
 ## Estrutura do Projeto
 
 TodoProject

@@ -6,7 +6,7 @@ Este é um projeto full stack de uma aplicação de lista de tarefas (Todo List)
 
 ## Tecnologias Utilizadas
 
-### 🧩 Backend (API):
+### Backend (API):
 - **C#**
 - **.NET 6 / ASP.NET Core**
 - **Entity Framework Core**
@@ -14,7 +14,7 @@ Este é um projeto full stack de uma aplicação de lista de tarefas (Todo List)
 - **Padrão REST**
 - **ViewModel para entrada de dados**
 
-### 🎨 Frontend:
+### Frontend:
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla JS)**
@@ -22,7 +22,7 @@ Este é um projeto full stack de uma aplicação de lista de tarefas (Todo List)
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 TodoProject
 
@@ -41,7 +41,7 @@ TodoProject
 
 ---
 
-## 🛠️ Como rodar o projeto localmente
+## Como rodar o projeto localmente
 
 ### Pré-requisitos
 
@@ -54,7 +54,7 @@ TodoProject
 ### Clonar o repositório
 
 ```bash
-git clone https://github.com/wescaetano/simple-todo-api.git
+git clone https://github.com/wescaetano/simple-todo-project.git
 cd simple-todo-api
 ```
 
@@ -63,7 +63,7 @@ cd simple-todo-api
 
 - Dica: Para evitar problemas de CORS durante testes locais, você pode usar uma extensão no navegador como CORS Unblock ou hospedar o frontend em um servidor local (como o Live Server do VSCode).
 
-## 📬 API Endpoints
+## API Endpoints
 
 ### GET `/v1/todos`
 - Retorna a lista de todas as tarefas.
